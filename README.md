@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andy Vasseur</h1>
-<h3 align="center">21 👨‍💻 Javascript Full Stack developer</h3>
+<h3 align="center">22 👨‍💻 Javascript Full Stack developer</h3>
 <br />
 
 ## 💫 About Me:
