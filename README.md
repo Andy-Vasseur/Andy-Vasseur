@@ -3,7 +3,7 @@
 <br />
 
 ## 💫 About Me:
-🔭 I’m currently working on a lot of projects.<br>👯 I’m looking to collaborate on any interesting open source projects.<br>🌱 I’m currently learning Jest & Python.<br>💬 Ask me about anything about The Office (US).<br>⚡ Fun fact, I'm also a streamer on Twitch.
+🔭 I’m currently creating my own auto learning AI called L.A.N.A AI.<br>👯 I’m looking to collaborate on any interesting open source projects.<br>🌱 I’m currently learning Jest & Python.<br>💬 Ask me about anything about The Office (US).<br>⚡ Fun fact, I'm also a streamer on Twitch.
 
 
 ## 💻 Tech Stack:
