@@ -85,13 +85,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="40" alt="webpack logo"  />
 </div>
 
-## 📊 GitHub Stats:
-<p align="left">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Andy-Vasseur&theme=slateorange&hide_border=false" alt="GitHub Streak" width="419.5">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andy-Vasseur&theme=slateorange&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
-</p>
-
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
